@@ -1,4 +1,4 @@
-Expense Splitter (Roommates Edition)
+Expense Splitter
 A simple command-line Python application that helps roommates or friends split shared expenses fairly.
 This project allows users to add people, record expenses, and calculate how much each person owes or should receive after splitting the total amount equally.
 
